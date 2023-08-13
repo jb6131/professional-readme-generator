@@ -3,7 +3,7 @@
 
   ## Description
 
-  This is a CLI application that helps the user create a professional README given a user's input.
+  This is a CLI application that helps the user create a professional README given a user's input. The user answers prompts given and the application creates a README file with the provided input.
 
   ## Table of Contents
 
