@@ -1,9 +1,9 @@
 # Professional README Generator
-  ![GitHub License]
+  
 
   ## Description
 
-  This is the description
+  This is a CLI application that helps the user create a professional README given a user's input.
 
   ## Table of Contents
 
@@ -29,15 +29,13 @@
 
   ## Usage
 
-  This is the usage
+  Feel free to use the application however you like.
 
-  ## License
-
-  This project is licensed under the MIT license.
+  
 
   ## Contributing
 
-  This is the contributing section
+  Feel free to contribute!
 
   ## Tests
 
