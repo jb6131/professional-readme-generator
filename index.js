@@ -49,7 +49,7 @@ const questions = () => inquirer.prompt([
     message: 'What does the user need to know about using the repo?'
   },
   {
-    name: 'contributions',
+    name: 'contributing',
     type: 'input',
     message: 'What does the user need to know about contributing to the repo?'
   }
